@@ -9,7 +9,7 @@ The thesis investigates the adversarial robustness of the LNPL (Learning with No
 
 ## 📄 Thesis Link
 
-You can find the full thesis PDF [here](link-to-pdf-or-repository-if-public).  
+You can find the full thesis PDF [here](https://github.com/SaarthakSolomon/Evaluating-the-Robustness-of-LNPL-Under-Adversarial-Text-Perturbations/blob/main/20250624_Solomon_Saarthak_29113535_Bachelor%20thesis.pdf).  
 📌 *Please refer to Chapter 4 for methodology and implementation details.*
 
 ---
