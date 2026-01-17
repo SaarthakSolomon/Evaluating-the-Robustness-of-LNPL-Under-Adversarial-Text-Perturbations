@@ -1,16 +1,9 @@
-# Evaluating the Robustness of LNPL Under Adversarial Text Perturbations
+# Auditing the Adversarial Robustness of LNPL in Text Classification: An Interpretability-Driven Analysis 
 
-This repository accompanies my Bachelor's thesis project titled:  
-**"Evaluating the Robustness of LNPL Under Adversarial Text Perturbations."**
+This repository accompanies my research titled:  
+**"Auditing the Adversarial Robustness of LNPL in Text Classification: An Interpretability-Driven Analysis "**
 
-The thesis investigates the adversarial robustness of the LNPL (Learning with Noisy and Pseudo Labels) training framework, originally designed for noisy label scenarios, by evaluating its behavior under semantically-preserving adversarial attacks in a sentiment classification task.
-
----
-
-## 📄 Thesis Link
-
-You can find the full thesis PDF [here](https://github.com/SaarthakSolomon/Evaluating-the-Robustness-of-LNPL-Under-Adversarial-Text-Perturbations/blob/main/20250624_Solomon_Saarthak_29113535_Bachelor%20thesis.pdf).  
-📌 *Please refer to Chapter 4 for methodology and implementation details.*
+This research investigates the adversarial robustness of the LNPL (Learning with Noisy and Pseudo Labels) training framework, originally designed for noisy label scenarios, by evaluating its behavior under semantically-preserving adversarial attacks in a sentiment classification task.
 
 ---
 
@@ -35,7 +28,7 @@ You can find the full thesis PDF [here](https://github.com/SaarthakSolomon/Evalu
 ├── requirements.txt              # Python dependencies
 ├── *.csv                         # Attack result logs (clean, baseline, LNPL variants)
 ├── SHAP.zip                      # SHAP attribution visualizations for failure cases
-├── iu_thesis_requirements.txt   
+├── requirement.txt   
 ```
 
 ---
@@ -115,7 +108,5 @@ If referencing this work or extending LNPL under adversarial testing, please cit
 
 ## 🧑‍🎓 Author
 
-**Saarthak Solomon**  
-Bachelor of Science – Data Science  
-IU International University of Applied Sciences  
+**Saarthak Solomon**    
 [GitHub Profile](https://github.com/SaarthakSolomon)
