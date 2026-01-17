@@ -27,8 +27,7 @@ This research investigates the adversarial robustness of the LNPL (Learning with
 ├── main.ipynb                    # End-to-end training + evaluation pipeline
 ├── requirements.txt              # Python dependencies
 ├── *.csv                         # Attack result logs (clean, baseline, LNPL variants)
-├── SHAP.zip                      # SHAP attribution visualizations for failure cases
-├── requirement.txt   
+├── SHAP.zip                      # SHAP attribution visualizations for failure cases   
 ```
 
 ---
