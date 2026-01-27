@@ -26,20 +26,13 @@ This work evaluates the adversarial robustness of the **Learning with Noisy and 
   - BERT-Attack (Masked LM and Embedding variants)
 - SHAP-based token-level attribution analysis for failure diagnosis
 
----
 
 ## 🗂️ Repository Structure
 
-.
-├── main.ipynb # End-to-end training, evaluation, and analysis pipeline
-├── requirements.txt # Python dependencies
-├── *.csv # Adversarial attack result logs (baseline and LNPL)
-├── SHAP.zip # SHAP attribution visualizations for representative failure cases
-
-yaml
-Copy code
-
----
+├── main.ipynb             (End-to-end training, evaluation, and analysis pipeline)                      
+├── requirements.txt       (Python dependencies)                     
+├── *.csv                  (Adversarial attack result logs (Baseline and LNPL))                 
+├── SHAP.zip               (SHAP attribution visualizations for representative failure cases)                   
 
 ## 🧪 Reproducing the Experiments
 
